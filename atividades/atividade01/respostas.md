@@ -35,17 +35,17 @@ A **matriz de confusão** é uma tabela que mostra os acertos e erros de um mode
 
 **Métricas calculadas:**
 
-Acurácia: % de predições corretas do total
-Precisão: dos casos que o modelo disse "sim", quantos eram realmente "sim"
-Recall: dos casos que eram realmente "sim", quantos o modelo identificou
-F1-score: média harmônica entre precisão e recall
+- Acurácia: % de predições corretas do total
+- Precisão: dos casos que o modelo disse "sim", quantos eram realmente "sim"
+- Recall: dos casos que eram realmente "sim", quantos o modelo identificou
+- F1-score: média harmônica entre precisão e recall
 
 ---
 
 ## 5️⃣ Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, entre outras) você acha mais interessante aplicar algoritmos de machine learning?
 Acho que pra mim, as áreas mais interessantes para aplicar machine learning são **saúde, meio ambiente, educação e justiça social.**
-Na **saúde**, posso ajudar no diagnóstico precoce de doenças, desenvolvimento de tratamentos personalizados e análise de exames médicos.
-No **meio ambiente**, consigo contribuir com monitoramento de desmatamento, previsão de mudanças climáticas e otimização do uso de recursos naturais. Além de mapeamento de áreas de risco para desastres naturais (o que também abrange uma causa **social**)
-Na **educação** daria pra contribuir com sistemas adaptativos que personalizam o aprendizado, identificam alunos em risco de evasão e democratizam acesso ao ensino de qualidade.
-Para **proteção às minorias**, vejo potencial em detectar e combater discriminação algorítmica, melhorar acesso a serviços públicos e identificar padrões de desigualdade social. Daria também pra auxiliar no combate à **fome e insegurança alimentar**  através de previsão de safras e escassez de alimentos, otimização de distribuição em bancos de alimentos e identificação de comunidades em risco nutricional
+- Na **saúde**, posso ajudar no diagnóstico precoce de doenças, desenvolvimento de tratamentos personalizados e análise de exames médicos.
+- No **meio ambiente**, consigo contribuir com monitoramento de desmatamento, previsão de mudanças climáticas e otimização do uso de recursos naturais. Além de mapeamento de áreas de risco para desastres naturais (o que também abrange uma causa **social**)
+- Na **educação** daria pra contribuir com sistemas adaptativos que personalizam o aprendizado, identificam alunos em risco de evasão e democratizam acesso ao ensino de qualidade.
+- Para **proteção às minorias**, vejo potencial em detectar e combater discriminação algorítmica, melhorar acesso a serviços públicos e identificar padrões de desigualdade social. Daria também pra auxiliar no combate à **fome e insegurança alimentar**  através de previsão de safras e escassez de alimentos, otimização de distribuição em bancos de alimentos e identificação de comunidades em risco nutricional
 Enfim, muitas e muitas coisas! Essas áreas me motivam demais porque são aplicações que podem genuinamente melhorar vidas e tornar o mundo mais justo e sustentável.
