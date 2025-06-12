@@ -2,7 +2,7 @@
 
 ## 1️⃣ O que é Machine Learning?
 
-**Machine Learning** é uma área da inteligência artificial que permite que os computadores aprendam com dados sem serem programados explicitamente para cada tarefa.
+**Machine Learning** é um ramo da inteligência artificial que permite que os computadores aprendam com dados sem serem programados explicitamente para cada tarefa.
 
 ---
 
