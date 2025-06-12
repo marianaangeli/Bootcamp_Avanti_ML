@@ -20,7 +20,7 @@ Em Machine Learning, os dados geralmente são divididos em três partes:
 Eu utilizaria algumas dessas estratégias:
 - **Removeria** linhas ou colunas com dados ausentes, se forem poucos casos, analisando obviamente se isso causaria algum impacto significativo e levando em consideração o contexto.
 - **Preencheria** os valores com 0 ou alguma medida estatística como média, mediana ou moda. Após fazer uma análise minuciosa dos dados, analisar outliers, entender a melhor opção a ser utilizada, sempre de acordo com o contexto. No caso de uma variável categórica, uma outra opção seria criar uma nova categoria, como por exemplo "não informado" ou "outro".
-- Utilizar técnicas mais sofisticadas de **imputação**, como algoritmos que estimam os valores ausentes com base nos demais dados.
+- Utilizaria técnicas mais sofisticadas de **imputação**, como algoritmos que estimam os valores ausentes com base nos demais dados.
 
 ---
 
