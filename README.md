@@ -1,13 +1,13 @@
 # 👩‍💻 Bootcamp Avanti - Jornada em Machine Learning 
 
 Seja bem-vindo(a) ao meu repositório de estudos do **Bootcamp de Machine Learning** promovido pelo **Instituto Avanti**! 🤗  
-Este espaço reúne os códigos, análises e projetos que desenvolvi ao longo do programa — uma trilha prática no universo do aprendizado de máquina.
+Este espaço reúne os códigos, análises e projeto que desenvolverei ao longo do programa, uma trilha prática no universo do aprendizado de máquina.
 
 ---
 
 ## 🚀 Sobre o Programa
 
-O bootcamp foi estruturado em três módulos, combinando fundamentos, prática com dados reais e técnicas modernas de Visão Computacional:
+O bootcamp foi estruturado em três módulos, combinando fundamentos, prática com dados reais e técnicas de Visão Computacional:
 
 ### 🧩 Módulo 1 – Python para Machine Learning
 > Desenvolvimento de habilidades em Python com foco nas bibliotecas mais utilizadas em ML, estruturação de dados, funções e manipulação eficiente de informação.
@@ -29,8 +29,8 @@ O bootcamp foi estruturado em três módulos, combinando fundamentos, prática c
 ---
 ## 🗃️ Organização dos Arquivos
 
-- `atividades/`: Exercícios e experimentos feitos durante os módulos  
-- `projetos/`: Pequenos projetos e desafios aplicados  
+- `atividades/`: Exercícios feitos durante os módulos  
+- `projeto/`: Projeto final e desafios aplicados  
 - `README.md`: Esta apresentação do repositório e da trilha de estudos
 
 ## 📬 Vamos conversar?
