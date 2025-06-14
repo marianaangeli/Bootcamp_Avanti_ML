@@ -1,4 +1,4 @@
-# 🧠 Atividade ML - Fundamentos com Insights Práticos
+# 🧠 Fundamentos com Insights Práticos
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)](https://pandas.pydata.org)
